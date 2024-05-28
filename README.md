@@ -175,7 +175,7 @@ the respective product.</p>
 
 <p style="text-indent: 20px;">The "Evenimente" page contains a list of all events added by producers or by administrator. As in the case of the previous pages, the events can be searched by title, start date or time, county or town.</p>
 
-<img src="Images/paginaevenimente.PNG" alt="Events page" style="padding: 20px;">
+<img src="Images/paginaevenimente.png" alt="Events page" style="padding: 20px;">
 
 <p style="text-indent: 20px;">On the page of the chosen event, next to the details, users can view the added announcements of producers in order to inform them.</p>
 
